@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# New Git Project\n\nx <- 5\ny <- 6\n\nxy <- x + y\n",
+    "created" : 1472616341742.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2581847586",
+    "id" : "96AC62AD",
+    "lastKnownWriteTime" : 1472616403,
+    "last_content_update" : 1472616403423,
+    "path" : "~/R working/Git/Test.R",
+    "project_path" : "Test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
